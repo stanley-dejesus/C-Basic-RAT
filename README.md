@@ -5,7 +5,7 @@ Video to follow
  
 Build Undetectable Malware Using C Language Ethical Hacking on YouTube\n
 
-https://www.youtube.com/watch?v=6Dc8i1NQhCM&t=2686s 
+https://www.youtube.com/watch?v=6Dc8i1NQhCM&t=2686s\n
 Learned approach from the above video.
 ![Alt Pic 1](images/pic1.png)
 
